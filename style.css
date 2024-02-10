@@ -466,9 +466,16 @@ footer {
         color: red;
     }
 
+    .box-conteudo {
+        margin: 20px;
+    }
     .box-1 {
-        margin: 0px 10px;
+        margin: 0px 0px;
         display: flex;
         justify-content: start;
+    }
+
+    .box-3 img {
+        max-width: 300px;
     }
 }
